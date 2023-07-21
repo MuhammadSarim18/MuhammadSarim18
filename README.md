@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
-<img align="center" src="file:///C:/Users/sarim/Downloads/muhammad%20sarim%20(4).mp4" />
+<img align="center" src="[file:///C:/Users/sarim/Downloads/muhammad%20sarim%20(4).mp4](https://github.com/MuhammadSarim18/MuhammadSarim18/assets/118040766/074ef6f7-a7f7-42b3-96b7-55d6e7b26c7c
+)" />
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **E-commerce website with dashboard.**
