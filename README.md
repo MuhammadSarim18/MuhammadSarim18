@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
-<img src="https://github-banner-gif.s3.us-east-005.backblazeb2.com/muhammad+sarim.gif" />
+<img src="https://github-banner-gif.s3.us-east-005.backblazeb2.com/Untitled+design.gif" />
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **E-commerce website with dashboard.**
