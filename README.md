@@ -1,4 +1,4 @@
-[![MasterHead](https://github-banner-gif.s3.us-east-005.backblazeb2.com/muhammad+sarim+(4).mp4)](https://m-sarim.io)
+[![MasterHead](https://github-banner-gif.s3.us-east-005.backblazeb2.com/muhammad+sarim+(4).mp4)](https://msarim.io)
 <h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
