@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MuhammadSarim18/MuhammadSarim18/assets/118040766/074ef6f7-a7f7-42b3-96b7-55d6e7b26c7c)] 
+[![MasterHead] (https://github.com/MuhammadSarim18/MuhammadSarim18/assets/118040766/074ef6f7-a7f7-42b3-96b7-55d6e7b26c7c)] 
 <h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
