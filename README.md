@@ -6,7 +6,7 @@
 
 <p>I am a mern stack developer who is enthusiastic about building websites that will uplift people and support their businesses. I work with a variety of technologies, including mongodb, NextJS, and ReactJS. I participated in a Web & Mobile App Development course offered by SMIT in 2022. I received the certificate for the top 50 students in 2023.</p>
 
-- 🔭 I’m currently working on **E-commerce website with dashboard.**
+- 🔭 I’m currently working on **MERN Stack projects.**
 
 - 📫 How to reach me **muhammadsarimofficial17@gmail.com**
   
