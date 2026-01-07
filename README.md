@@ -2,7 +2,7 @@
 <img alt="banner-img"  align="center" src="https://github-banner-gif.s3.us-east-005.backblazeb2.com/2.png" />
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
-  <img height="300" align="right" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" >
+  /*<img height="300" align="right" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" >*/
 
 <p>I am a mern stack developer who is enthusiastic about building websites that will uplift people and support their businesses. I work with a variety of technologies, including mongodb, NextJS, and ReactJS. I participated in a Web & Mobile App Development course offered by SMIT in 2022. I received the certificate for the top 50 students in 2023.</p>
 
