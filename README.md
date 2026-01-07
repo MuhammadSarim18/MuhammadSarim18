@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sarim </h1>
-<img alt="banner-img"  align="center" src="https://github-banner-gif.s3.us-east-005.backblazeb2.com/2.png" />
+<img alt="banner-img"  align="center" src="https://f005.backblazeb2.com/file/github-banner-gif/Sarim+LinkedIn+cover.png" />
 <h3 align="center">A Front-end developer from Pakistan</h3>
 
 <p>I’m a web developer with over 1 year of experience in the industry. My expertise spans both Front-end & No-code development, allowing me to create seamless web solutions. Whether you are a business seeking a robust web presence or an employer looking to hire a developer, feel free to get in touch. I work with a variety of technologies, including mongodb, NextJS, and ReactJS. I participated in a Web & Mobile App Development course offered by SMIT in 2022. I received the certificate for the top 50 students in 2023.</p>
