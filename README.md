@@ -4,9 +4,7 @@
 
 <p>I’m a web developer with over 1 year of experience in the industry. My expertise spans both Front-end & No-code development, allowing me to create seamless web solutions. Whether you are a business seeking a robust web presence or an employer looking to hire a developer, feel free to get in touch. I work with a variety of technologies, including mongodb, NextJS, and ReactJS. I participated in a Web & Mobile App Development course offered by SMIT in 2022. I received the certificate for the top 50 students in 2023.</p>
 
-- 🔭 I’m currently working on **MERN Stack projects.**
-
-- 📫 How to reach me **muhammadsarimofficial17@gmail.com**
+-  How to reach me **muhammadsarimofficial17@gmail.com**
 -  Portfolio **https://muhammadsarim.netlify.app**
   
 <h3 align="left">Connect with me:</h3>
