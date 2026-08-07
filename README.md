@@ -1,4 +1,4 @@
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ee4d8218-97d6-491e-b8e9-5da8c9b838c6" /><h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;SQL+Server+%2B+Electron.js+Desktop+Apps;Learning+Python+%26+React+Native" alt="Typing SVG" />
