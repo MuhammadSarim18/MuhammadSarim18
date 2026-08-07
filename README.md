@@ -1,19 +1,86 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sarim </h1>
-<img alt="banner-img"  align="center" src="https://f005.backblazeb2.com/file/github-banner-gif/Sarim+LinkedIn+cover.png" />
-<h3 align="center">A Front-end developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
 
-<p>I’m a web developer with over 1 year of experience in the industry. My expertise spans both Front-end & No-code development, allowing me to create seamless web solutions. Whether you are a business seeking a robust web presence or an employer looking to hire a developer, feel free to get in touch. I work with a variety of technologies, including mongodb, NextJS, and ReactJS. I participated in a Web & Mobile App Development course offered by SMIT in 2022. I received the certificate for the top 50 students in 2023.</p>
-
--  How to reach me **muhammadsarimofficial17@gmail.com**
--  Portfolio **https://muhammadsarim.netlify.app**
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-sarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sarim" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad sarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad sarim" height="30" width="40" /></a>
-<a href="https://instagram.com/sarim.____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarim.____" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;SQL+Server+%2B+Electron.js+Desktop+Apps;Learning+Python+%26+React+Native" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<!-- </div> -->
+<p align="center">
+  <a href="https://muhammadsarim.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-sarim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muhammadsarimofficial17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 Computer Science student at **MAJU** (Class of 2028)
+- 💻 Full-stack developer — comfortable across front end, back end, databases, and desktop apps
+- 🛠️ Recently shipped a **MERN-stack booking platform** with real-time sync and a **desktop admin system** (Electron.js + SQL Server) for gym management
+- 🌱 Currently learning **Python** and **React Native**
+- 📍 Based in Karachi, Pakistan
+- ⚡ Fun fact: I build for real clients, not just tutorials — freelance work on Shopify, WordPress & custom web apps since 2022
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,electron,vscode,python,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadSarim18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSarim18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSarim18&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSarim18&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MuhammadSarim18/ai-saas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadSarim18&repo=ai-saas&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/MuhammadSarim18/happynest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadSarim18&repo=happynest&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadSarim18/MuhammadSarim18/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<!--
+  ⬆️ This snake animation needs a one-time GitHub Actions setup — see the note below.
+-->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadSarim18&style=flat-square&color=2EA3F7" alt="Profile views" />
+</p>
