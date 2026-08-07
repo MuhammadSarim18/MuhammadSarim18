@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ee4d8218-97d6-491e-b8e9-5da8c9b838c6" /><h1 align="center">Hi 👋, I'm Muhammad Sarim</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;SQL+Server+%2B+Electron.js+Desktop+Apps;Learning+Python+%26+React+Native" alt="Typing SVG" />
@@ -37,35 +37,6 @@
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadSarim18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSarim18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSarim18&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSarim18&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/MuhammadSarim18/ai-saas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadSarim18&repo=ai-saas&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MuhammadSarim18/happynest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadSarim18&repo=happynest&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 
